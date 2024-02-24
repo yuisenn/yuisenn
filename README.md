@@ -67,7 +67,7 @@
   
  🔰 &emsp; Currently studying at FEU Institute of Technology<br/><br/>
  ⌨️ &emsp; I love programming<br/><br/>
- 🖥️ &emsp; I love building custom PC desktops, and mechanical keyboards.<br/><br/>
+ 🖥️ &emsp; I love building custom PC desktops, and mechanical keyboards<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/yuisenn/yuisenn/issues)
 
 </p>
