@@ -102,9 +102,9 @@
 <br/>
 
 ## Top Open Source -
-[![AWD Projects](https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yuisenn/AWD-Projects)
-[![Resume](https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yuisenn/AWD-Resume)
-[![Project Animation](https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yuisenn/AWD-Project-Animation)
+[![AWD Projects](https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=AWD-Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yuisenn/AWD-Projects)
+[![Resume](https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=AWD-Resume&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yuisenn/AWD-Resume)
+[![Project Animation](https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=AWD-Web-Animation&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yuisenn/AWD-Project-Animation)
 [![Yuisenn Readme](https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=yuisenn&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yuisenn/yuisenn)
 
 <p align="left">
