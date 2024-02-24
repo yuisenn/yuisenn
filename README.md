@@ -12,22 +12,22 @@
 import { Person } from 'indonesia';
 
 new Person({
-    name   : 'Deri Kurniawan',
+    name   : 'Emmanuel Mangasar',
     title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
-    website: 'https://bitlie.deri.my.id/portfolio',
-    married: !!!true,
+    email  : 'er-mangasar@gmail.com',
+    website: 'www.er-mangasar.com',
+    married: !!!false,
 }).sayHello();
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+D:\Emmanuel-Mangasar> node index.js
+Hi, my name is Emmanuel Mangasar, I'm a Full Stack Developer from Philippines.
 ```
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
+[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/yuisenn?label=Followers) ![Stars](https://img.shields.io/github/stars/yuisenn?label=Stars)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -88,7 +88,7 @@ Linux                    3 hrs 35 mins       ██░░░░░░░░░�
 <h3 align="center">🔥Streak Stats🔥</h3>
 
 <!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=yuisenn&hide_border=true&type=png" alt="yuisenn" /></p>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
@@ -97,23 +97,23 @@ Linux                    3 hrs 35 mins       ██░░░░░░░░░�
 
 <div>
   <p align="center">
-	<a href="https://github.com/Deri-Kurniawan/Deri-Kurniawan.github.io">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=Deri-Kurniawan.github.io&theme=transparent" alt="GitHub Stats" />
+	<a href="https://github.com/yuisenn/yuisenn.github.io">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=yuisenn.github.io&theme=transparent" alt="GitHub Stats" />
     	</a>
-	    <a href="https://github.com/Deri-Kurniawan/3d-portfolio">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
+	    <a href="https://github.com/yuisenn/3d-portfolio">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/yuisenn/plant_shop_mobile_app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/derizer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/yuisenn/derizer">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=derizer&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/screen-recorder-online">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/yuisenn/screen-recorder-online">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/mini-framework">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/yuisenn/mini-framework">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
     	</a>
 </div>
 
