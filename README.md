@@ -117,7 +117,7 @@
 
 <p align="center">
   <a href="https://github.com/yuisenn">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuisenn&theme=radical&border=7F3FBF&background=0D1117" alt="Yuisenn's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuisenn&theme=radical&border=7F3FBF&background=#eceffc" alt="Yuisenn's GitHub streak"/>
   </a>
 </p>
 
