@@ -60,14 +60,14 @@
 <br />
 
 <!-- About Section -->
- # About me
+ # About Me
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- 🔰 &emsp; Currently studying at FEU-Tech <br/><br/>
+ 🔰 &emsp; Currently studying at FEU Institute of Technology<br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: yuisenn.dev@gmail.com<br/><br/>
+ 🖥️ &emsp; I love building custom PC desktops, mechanical keyboards.<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/yuisenn/yuisenn/issues)
 
 </p>
@@ -102,10 +102,10 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yuisenn/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yuisenn/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yuisenn/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=yuisenn&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yuisenn/yuisenn)
+[![AWD Projects](https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yuisenn/AWD-Projects)
+[![Resume](https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yuisenn/AWD-Resume)
+[![Project Animation](https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yuisenn/AWD-Project-Animation)
+[![Yuisenn Readme](https://github-readme-stats.vercel.app/api/pin/?username=yuisenn&repo=yuisenn&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yuisenn/yuisenn)
 
 <p align="left">
   <a href="https://github.com/yuisenn?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
