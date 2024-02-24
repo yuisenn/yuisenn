@@ -66,8 +66,8 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  🔰 &emsp; Currently studying at FEU Institute of Technology<br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 🖥️ &emsp; I love building custom PC desktops, mechanical keyboards.<br/><br/>
+ ⌨️ &emsp; I love programming<br/><br/>
+ 🖥️ &emsp; I love building custom PC desktops, and mechanical keyboards.<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/yuisenn/yuisenn/issues)
 
 </p>
